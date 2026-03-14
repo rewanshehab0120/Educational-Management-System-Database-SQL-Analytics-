@@ -1,10 +1,7 @@
 # Educational Management System: Database & SQL Analytics 
 
-![Project Screenshot](63e7922b-ee92-4070-bd50-64053e4f9183.png)
+![Shema ](Screenshot (798).png)
 
-**Developer:** Rwan A. [@rewan4](https://github.com/rewan4)
-
-**Rating:** 0.0 (0 reviews)
 
 ---
 
