@@ -1,6 +1,6 @@
 # Educational Management System: Database & SQL Analytics 
 
-![Database Schema](Screenshot(798).png)
+![Database Schema](schema.png)
 ---
 
 ## Project Overview
